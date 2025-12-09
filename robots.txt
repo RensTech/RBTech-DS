@@ -8,4 +8,4 @@ Allow: /sitemap.xml
 Disallow: /admin/
 Disallow: /private/
 
-Sitemap: https://rbtechdigital.com/sitemap.xml
+Sitemap: https://rbtech.my.id/sitemap.xml
