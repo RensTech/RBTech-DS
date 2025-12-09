@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /styles.css
+Allow: /script.js
+Allow: /sitemap.xml
+
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://rbtechdigital.com/sitemap.xml
